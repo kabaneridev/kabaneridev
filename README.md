@@ -1,18 +1,25 @@
 # Hello, I'm Krystian Płomiński 👋
 
 ## About Me
-I'm a Senior QA Engineer with over five years of experience in software quality assurance. I specialize in automated testing for a diverse range of applications, including web apps, mobile apps, and backend systems. My expertise extends across various technologies such as SOAP APIs, REST APIs, GraphQL APIs, Websockets, and gRPC, on platforms including AWS, EVM (Ethereum VM), Substrate, and Cosmos networks. I am deeply committed to enhancing software quality through innovative testing strategies and robust QA processes. Additionally, I am a big fan of Substrate, enjoying exploring and developing on this robust framework for blockchain innovation.
+I'm a Senior QA Engineer with over five years of experience in software quality assurance. I specialize in automated testing for a diverse range of applications, including web apps, mobile apps, backend systems and blockchain systems. My expertise extends across various technologies such as SOAP APIs, REST APIs, GraphQL APIs, Websockets, and gRPC, on platforms including AWS, EVM (Ethereum VM), Substrate, and Cosmos networks. I am deeply committed to enhancing software quality through innovative testing strategies and robust QA processes. Additionally, I am a big fan of Substrate, enjoying exploring and developing on this robust framework for blockchain innovation.
 
 ## Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, Solidity, Golang
 - **Scripting:** Bash
-- **Cloud Technologies:** AWS
-- **Blockchain Platforms:** Ethereum VM, Substrate, Cosmos
+- **Cloud Technologies:** AWS (EC2, Lambda, S3, RDS, CloudWatch, API Gateway, ECS, ECR, EventBridge)
+- **Blockchain Platforms:** Ethereum VM, Substrate, Cosmos, Web3.js, Polkadot.js, ethers.js
 - **QA Tools & Technologies:** 
   Selenium, Cypress, Playwright, WebdriverIO, Appium, Browserstack, Docker, Kubernetes, Mocha, Jasmine, Pytest, Chai, k6.js, Detox.js, ZombieNet, Acala Chopsticks
+- **Monitoring Tools:** Grafana, Prometheus, Sentry, New Relic, Horizon
+- **Test Management Tools:** JIRA, TestRail, Zephyr
 - **CI/CD and DevOps Tools:** GitHub Actions, GitLab CI/CD
 - **QA Expertise:** 
   Test automation, Performance testing, Security testing, Continuous Integration/Continuous Deployment, DevOps Practices, Mobile Testing, Smart Contracts Testing, Blockchain Testing
+
+## Technical Proficiencies
+- **Container Management:** Docker, Kubernetes, Portainer
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Project Management Tools:** Jira, Asana, ClickUp, Trello, Linear, Basecamp
 
 ## Significant Contributions
 - **Enjin NFT Migration:** Actively involved in testing during the migration of over 200 million NFTs from Ethereum to the Enjin blockchain. This was a pivotal moment for Enjin, aimed at enhancing scalability and reducing transaction costs, significantly impacting the blockchain ecosystem. [Read more about this migration.](https://cointelegraph.com/news/200-million-nfts-migration-ethereum-enjin-blockchain)
