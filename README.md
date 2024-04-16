@@ -1,7 +1,7 @@
 # Hello, I'm Krystian Płomiński 👋
 
 ## About Me
-I'm a Senior QA Engineer with over five years of experience in software quality assurance. I specialize in automated testing for a diverse range of applications, including web apps, mobile apps, and backend systems. My expertise extends across various technologies such as SOAP APIs, REST APIs, Websockets, and gRPC, on platforms including AWS, EVM (Ethereum VM), Substrate, and Cosmos networks. I am deeply committed to enhancing software quality through innovative testing strategies and robust QA processes. Additionally, I am a big fan of Substrate, enjoying exploring and developing on this robust framework for blockchain innovation.
+I'm a Senior QA Engineer with over five years of experience in software quality assurance. I specialize in automated testing for a diverse range of applications, including web apps, mobile apps, and backend systems. My expertise extends across various technologies such as SOAP APIs, REST APIs, GraphQL APIs, Websockets, and gRPC, on platforms including AWS, EVM (Ethereum VM), Substrate, and Cosmos networks. I am deeply committed to enhancing software quality through innovative testing strategies and robust QA processes. Additionally, I am a big fan of Substrate, enjoying exploring and developing on this robust framework for blockchain innovation.
 
 ## Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, Solidity, Golang
